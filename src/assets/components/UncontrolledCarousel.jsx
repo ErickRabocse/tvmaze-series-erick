@@ -14,7 +14,7 @@ function UncontrolledExample() {
           style={{ width: 800, marginLeft: "auto", marginRight: "auto" }}
         />
         <Carousel.Caption className="header">
-          <h3>You&apos;re in the right place!</h3>
+          <h3>Welcome aboard!</h3>
           <p>
             Relive memories with your favorite childhood series or discover new
             titles. All in one place.
