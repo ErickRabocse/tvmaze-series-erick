@@ -13,7 +13,7 @@ function BasicCard({ image, title, summary }) {
         <Card.Title>{title}</Card.Title>
         <Card.Text className="cardSummary">{summary}</Card.Text>
         <Button variant="primary" className="cardButton">
-          <img src="../../public/plus.png" alt="" className="cardImg" />
+          <img src="../../plus.png" alt="" className="cardImg" />
         </Button>
       </Card.Body>
     </Card>

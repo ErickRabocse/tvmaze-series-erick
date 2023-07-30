@@ -9,7 +9,7 @@ function UncontrolledExample() {
         <img
           // className="d-block w-100"
           className="d-block"
-          src="../../public/sofa.jpeg"
+          src="../../sofa.jpeg"
           alt="First slide"
           style={{ width: 800, marginLeft: "auto", marginRight: "auto" }}
         />
@@ -24,7 +24,7 @@ function UncontrolledExample() {
       <Carousel.Item className="carouselItem">
         <img
           className="d-block"
-          src="../../public/bored.jpeg"
+          src="../../bored.jpeg"
           alt="Second slide"
           style={{ width: 800, marginLeft: "auto", marginRight: "auto" }}
         />
@@ -40,7 +40,7 @@ function UncontrolledExample() {
       <Carousel.Item className="carouselItem">
         <img
           className="d-block"
-          src="../../public/excited.jpeg"
+          src="../../excited.jpeg"
           alt="Third slide"
           style={{ width: 800, marginLeft: "auto", marginRight: "auto" }}
         />
